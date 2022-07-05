@@ -1,14 +1,9 @@
-# Watch Your Talk, Make it Accessible! - Presentation on VueJS Indonesia Meetup #1
-
-Web Accessibility
-
-## Notes
-**3 slides are using Indonesian** 
+# Easy Blogging with Strapi
 
 ## Installation
 
 ```bash
-$ git clone https://github.com/adriantirusli/slide-web-accessibility
+$ git clone https://github.com/adriantirusli/slide-strapi
 
 ## Usage
 ```bash
@@ -18,6 +13,3 @@ $ yarn develop
 # To build
 $ yarn build
 ```
-
-➡️ **[See a live example](https://a11y-vue-demo.netlify.com/)**
-➡️ **[Read my article](https://adriantirusli.me/blog/a11y/)**
